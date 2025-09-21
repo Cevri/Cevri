@@ -15,7 +15,7 @@
 
 - 💻 **Software Engineer** by profession, always learning (studying Computer Science as my biggest side project).
 - 🛠️ **Thorough system design** is my forte: event-driven architectures, distributed systems, and reliability-first automation.
-- ⚡ I believe in considering as many risks to reliability and stability as possible before implementation, because the best solutions anticipate problems before they happen.
+- ⚡ I believe in considering as many risks to reliability and stability as possible before implementation, because fixing them later often costs more than discovering issues in early designs.
 - 🧠 My approach balances rigorous due diligence (scaling, performance, fallback strategies) with pragmatic delivery; avoiding overengineering, but never cutting corners on core stability.
 
 ---
